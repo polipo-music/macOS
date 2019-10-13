@@ -1,0 +1,58 @@
+{
+  "PostDate": "2019-10-13T02:41:35Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/041-91741.English.dist",
+  "Packages": [
+    {
+      "Size": 328,
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/AppleDiagnostics.chunklist"
+    },
+    {
+      "Size": 1984,
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/BaseSystem.chunklist"
+    },
+    {
+      "Digest": "5cd4c6d399720ca257b290548a94c80425926942",
+      "Size": 11847073,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/InstallAssistantAuto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/InstallAssistantAuto.pkg"
+    },
+    {
+      "Size": 16744,
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/InstallESDDmg.chunklist"
+    },
+    {
+      "Size": 2943390,
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/AppleDiagnostics.dmg"
+    },
+    {
+      "Digest": "b6346572a2bbd4669f0a5cbdec1e25f002fcabd2",
+      "Size": 486771031,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/RecoveryHDMetaDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/RecoveryHDMetaDmg.pkg"
+    },
+    {
+      "Digest": "39b385e1cfb81ae6d2d2c6e2f9d79b55900f5640",
+      "Size": 2524502,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/MajorOSInfo.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/MajorOSInfo.pkg"
+    },
+    {
+      "Digest": "ff5dbe08201599aaccc2b20e7d0bd88d368256cd",
+      "Size": 4789385054,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/InstallESDDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/InstallESDDmg.pkg"
+    },
+    {
+      "Size": 485107931,
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/BaseSystem.dmg"
+    },
+    {
+      "Size": 684035,
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/OSInstall.mpkg"
+    },
+    {
+      "Size": 1584,
+      "URL": "http://swcdn.apple.com/content/downloads/41/43/041-91741-A_WA3NXS2ZKX/64427gwv708ya1dixzjp5smau1qzm4acsa/InstallInfo.plist"
+    }
+  ]
+}
