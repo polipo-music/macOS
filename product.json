@@ -1,0 +1,58 @@
+{
+  "PostDate": "2019-10-19T18:19:55Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/041-91758.English.dist",
+  "Packages": [
+    {
+      "Size": 16528,
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/InstallESDDmg.chunklist"
+    },
+    {
+      "Digest": "add4679d2871ef4d1cccae516c20487497f09728",
+      "Size": 487844696,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/RecoveryHDMetaDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/RecoveryHDMetaDmg.pkg"
+    },
+    {
+      "Digest": "280932d837dc64632cd2ac949ed23058dcf8ec35",
+      "Size": 4722014048,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/InstallESDDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/InstallESDDmg.pkg"
+    },
+    {
+      "Size": 328,
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/AppleDiagnostics.chunklist"
+    },
+    {
+      "Digest": "f6a712add4cc64444235742bf39bad4e31418cb4",
+      "Size": 2524503,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/MajorOSInfo.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/MajorOSInfo.pkg"
+    },
+    {
+      "Size": 486278934,
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/BaseSystem.dmg"
+    },
+    {
+      "Digest": "92a37dd7674481d9935192d361042256d4d1d138",
+      "Size": 11830689,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/InstallAssistantAuto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/InstallAssistantAuto.pkg"
+    },
+    {
+      "Size": 1584,
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/InstallInfo.plist"
+    },
+    {
+      "Size": 1984,
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/BaseSystem.chunklist"
+    },
+    {
+      "Size": 2865969,
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/AppleDiagnostics.dmg"
+    },
+    {
+      "Size": 684036,
+      "URL": "http://swcdn.apple.com/content/downloads/06/50/041-91758-A_M8T44LH2AW/b5r4og05fhbgatve4agwy4kgkzv07mdid9/OSInstall.mpkg"
+    }
+  ]
+}
