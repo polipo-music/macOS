@@ -1,0 +1,24 @@
+{
+  "PostDate": "2019-10-22T20:22:51Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/25/38/041-90860-A_PDMOZ4IFT3/r8sifyyfzrjj4cyekitx7sqfa5epsfay0h/041-90860.English.dist",
+  "Packages": [
+    {
+      "Digest": "dd65f411e06db478e9f4272bdba7bb09d1ff6ed1",
+      "Size": 4719785824,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/25/38/041-90860-A_PDMOZ4IFT3/r8sifyyfzrjj4cyekitx7sqfa5epsfay0h/InstallESDDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/25/38/041-90860-A_PDMOZ4IFT3/r8sifyyfzrjj4cyekitx7sqfa5epsfay0h/InstallESDDmg.pkg"
+    },
+    {
+      "Digest": "e1b16f3882851daf9fa12056da7c0d2231ed9db9",
+      "Size": 486648149,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/25/38/041-90860-A_PDMOZ4IFT3/r8sifyyfzrjj4cyekitx7sqfa5epsfay0h/RecoveryHDMetaDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/25/38/041-90860-A_PDMOZ4IFT3/r8sifyyfzrjj4cyekitx7sqfa5epsfay0h/RecoveryHDMetaDmg.pkg"
+    },
+    {
+      "Digest": "addae21a3d8dec261337a03f462ef6cf2ba8b9c1",
+      "Size": 22906275,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/25/38/041-90860-A_PDMOZ4IFT3/r8sifyyfzrjj4cyekitx7sqfa5epsfay0h/LegacyInstallAssistantAuto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/25/38/041-90860-A_PDMOZ4IFT3/r8sifyyfzrjj4cyekitx7sqfa5epsfay0h/LegacyInstallAssistantAuto.pkg"
+    }
+  ]
+}
