@@ -1,0 +1,72 @@
+{
+  "PostDate": "2019-10-22T22:41:14Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/041-88788.English.dist",
+  "Packages": [
+    {
+      "Size": 2898135,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/AppleDiagnostics.dmg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/AppleDiagnostics.dmg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "4184bbc3eb66bbbf49770c55f0a885bd8df50009",
+      "Size": 11613563,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/InstallAssistantAuto.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/InstallAssistantAuto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/InstallAssistantAuto.pkg",
+      "IntegrityDataSize": 140
+    },
+    {
+      "Size": 491799498,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/BaseSystem.dmg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/BaseSystem.dmg",
+      "IntegrityDataSize": 1760
+    },
+    {
+      "Size": 1984,
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/BaseSystem.chunklist"
+    },
+    {
+      "Size": 328,
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/AppleDiagnostics.chunklist"
+    },
+    {
+      "Digest": "ac9b7c1c9163e0ff9a89636f0191ae0beb1f79a5",
+      "Size": 493361997,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/RecoveryHDMetaDmg.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/RecoveryHDMetaDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/RecoveryHDMetaDmg.pkg",
+      "IntegrityDataSize": 1796
+    },
+    {
+      "Digest": "3ef7ab280569ce0c4e750e8c60d3149e14ce2d96",
+      "Size": 5517227866,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/InstallESDDmg.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/InstallESDDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/InstallESDDmg.pkg",
+      "IntegrityDataSize": 19040
+    },
+    {
+      "Size": 1584,
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/InstallInfo.plist"
+    },
+    {
+      "Digest": "a8f4a91a7d3bb3489260e8feba51173ed5609393",
+      "Size": 1848618,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/MajorOSInfo.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/MajorOSInfo.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/MajorOSInfo.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Size": 607968,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/OSInstall.mpkg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/OSInstall.mpkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Size": 19264,
+      "URL": "http://swcdn.apple.com/content/downloads/42/53/041-88788/vcx561c60j95cebo6cj21d146f2li38170/InstallESDDmg.chunklist"
+    }
+  ]
+}
