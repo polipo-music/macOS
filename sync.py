@@ -119,14 +119,18 @@ def main():
 
     logging.info('Parsing product.json...')
     product = json.load(open('product.json'))
+    post_date = product.pop('PostDate')
+    distribution_url = product.pop('DistributionURL')
+    packages = product.pop('Packages')
+    assert not product
+
     aria2c_input = []
 
-    distribution_url = product['DistributionURL']
     distribution_filename = get_filename(distribution_url)
     aria2c_input.append(distribution_url)
 
     chunklist_set = set()
-    for package in product['Packages']:
+    for package in packages:
         filename = get_filename(package['URL'])
         if filename.endswith('.chunklist'):
             chunklist_set.add(filename[:-10])
@@ -135,7 +139,7 @@ def main():
     integrity_dict = {}
     chunklist_dict = {}
     size_dict = {}
-    for package in product['Packages']:
+    for package in packages:
         url = package.pop('URL')
         aria2c_input.append(url)
         filename = get_filename(url)
@@ -231,6 +235,7 @@ def main():
             'tag_name': GITHUB_BRANCH,
             'target_commitish': 'empty',
             'name': distribution,
+            'body': f'`{post_date}`',
             'draft': True,
             'prerelease': beta,
         },
