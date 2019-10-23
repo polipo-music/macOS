@@ -24,7 +24,7 @@ class Build(typing.NamedTuple):
 def get_releases(repo, token=None):
     releases = []
     headers = {'Authorization': f'token {token}'} if token else None
-    url = f'https://api.github.com/repos/{repo}/releases'
+    url = f'https://api.github.com/repos/{repo}/releases?per_page=100'
     while 1:
         rsp = requests.get(url=url, headers=headers, allow_redirects=False)
         assert rsp.status_code == 200
