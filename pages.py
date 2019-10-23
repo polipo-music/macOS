@@ -40,7 +40,6 @@ def dedup(releases):
             continue
         collections.setdefault(release['name'], []).append((
             (release['body'] or '').strip('`'),
-            release['tag_name'],
             release['html_url'],
         ))
     return collections
@@ -73,11 +72,9 @@ def main():
     for title, releases in collections:
         print('  <div class="collection">')
         print(f'    <strong>{html.escape(title)}</strong>')
-        for date, tag, url in sorted(releases):
-            print(f'    <div>')
-            print(f'      <a class="monospace" href="{html.escape(url)}">{html.escape(tag)}</a>')
-            print(f'      <span class="monospace">{html.escape(date)}</span>')
-            print(f'    </div>')
+        for date, url in sorted(releases):
+            print('    <br>')
+            print(f'    <a class="monospace" href="{html.escape(url)}">{html.escape(date)}</a>')
         print('  </div>')
         print('</body>')
         print('</html>')
