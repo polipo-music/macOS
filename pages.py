@@ -36,6 +36,8 @@ def get_releases(repo, token=None):
 def dedup(releases):
     collections = {}
     for release in releases:
+        if '/untagged-' in release['html_url']:
+            continue
         collections.setdefault(release['name'], []).append((
             (release['body'] or '').strip('`'),
             release['tag_name'],
