@@ -87,6 +87,8 @@ def parse_distribution(path):
         .expand(br'<plist>\1</plist>')
     )
     title = re.search(br'(?<="SU_TITLE" = ")[^"]+', data).group().decode()
+    if title.startswith('Install '):
+        title = title[8:]
     return title, auxinfo['VERSION'], auxinfo['BUILD']
 
 class LimitedReader:
