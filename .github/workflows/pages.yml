@@ -1,7 +1,7 @@
 on:
   push:
-  schedule:
-  - cron: '55 * * * *'
+  release:
+    types: [published]
 
 jobs:
   pages:
