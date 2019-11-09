@@ -3,7 +3,7 @@ set -ex
 
 mkdir gh-pages
 cd gh-pages
-../pages.py >index.html
+../.github/pages.py >index.html
 
 git config --global user.name 'GitHub Actions'
 git config --global user.email "$(whoami)@$(hostname --fqdn)"
