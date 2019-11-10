@@ -122,7 +122,6 @@ def main():
     )
 
     GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
-    GITHUB_PERSONAL_ACCESS_TOKEN = os.environ['GITHUB_PERSONAL_ACCESS_TOKEN']
     GITHUB_REPOSITORY = os.environ['GITHUB_REPOSITORY']
     GITHUB_BRANCH = re.fullmatch(r'refs/heads/(.*)', os.environ['GITHUB_REF']).group(1)
 
@@ -308,9 +307,9 @@ def main():
         assert rsp.status_code != 204
         sys.exit(1)
     else:
-        # publish draft (PAT is required to trigger pages.workflow)
+        # publish draft
         rsp = requests.patch(release['url'],
-            headers={'Authorization': f'token {GITHUB_PERSONAL_ACCESS_TOKEN}'},
+            headers={'Authorization': f'token {GITHUB_TOKEN}'},
             json={'draft': False},
             allow_redirects=False,
         )
