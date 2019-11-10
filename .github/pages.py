@@ -39,7 +39,7 @@ def dedup(releases):
         if '/untagged-' in release['html_url']:
             continue
         collections.setdefault(release['name'], []).append((
-            (release['body'] or '').strip('`'),
+            release['body'].strip('`'),
             release['html_url'],
         ))
     return collections
