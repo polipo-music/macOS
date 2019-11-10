@@ -1,0 +1,48 @@
+{
+  "PostDate": "2019-10-14T19:01:20Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/041-90784.English.dist",
+  "Packages": [
+    {
+      "Digest": "efbf5904d25d11b5f7420c59c2b2e310b6269f13",
+      "Size": 108741983,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/FullBundleUpdate.pkg"
+    },
+    {
+      "Digest": "efabbf3085e47d6f64b348946c9df41bb46bbe57",
+      "Size": 202630370,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "a712cb43134636a76a7caf431d821090e07a9b26",
+      "Size": 1067509248,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/macOSUpdCombo10.13.2Auto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/macOSUpdCombo10.13.2Auto.pkg"
+    },
+    {
+      "Digest": "237988851ceda785ff838a78ea3fede03a11ea64",
+      "Size": 59311459,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/EmbeddedOSFirmware.pkg"
+    },
+    {
+      "Digest": "8acacaff68a104f37f5a5faa43355649c94ab174",
+      "Size": 480086368,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/macOSUpdCombo10.13.2Auto.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/macOSUpdCombo10.13.2Auto.RecoveryHDUpdate.pkg"
+    },
+    {
+      "Digest": "9ab0d36c42600a9c57e27a072db004b1fabcc3c0",
+      "Size": 21840,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/BridgeOSUpdateCustomer.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/BridgeOSUpdateCustomer.pkg"
+    },
+    {
+      "Digest": "cd7077222722ca8feac79b4ec7e7085fe290e21f",
+      "Size": 21847,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/BridgeOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/00/041-90784-A_10MABRT921/cb5f3z5st81lc7dtogbtns139k4ikgxq8n/BridgeOSBrain.pkg"
+    }
+  ]
+}
