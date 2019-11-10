@@ -46,7 +46,7 @@ def dedup(releases):
 
 def main():
     releases = get_releases(
-        'zhangyoufu/macOS',
+        repo=os.environ['GITHUB_REPOSITORY'],
         token=os.environ['GITHUB_TOKEN'],
     )
     collections = sorted(dedup(releases).items(),
