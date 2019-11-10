@@ -1,6 +1,8 @@
 #!/bin/bash
 set -ex
 
+pip3 install -r .github/requirements.txt
+
 mkdir gh-pages
 cd gh-pages
 ../.github/pages.py >index.html
