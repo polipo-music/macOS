@@ -2,7 +2,7 @@ on: push
 
 jobs:
   push:
-    if: github.ref != 'refs/heads/master' && github.ref != 'refs/heads/template' && github.ref != 'refs/heads/gh-pages'
+    if: github.ref != 'refs/heads/template'
     runs-on: ubuntu-latest
     steps:
     - name: checkout
