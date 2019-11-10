@@ -1,0 +1,70 @@
+{
+  "PostDate": "2019-10-24T18:25:52Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/061-41417.English.dist",
+  "Packages": [
+    {
+      "Digest": "4871cc4194a564a27bd59bfa10ef8a033c57e184",
+      "Size": 59389237,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/EmbeddedOSFirmware.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/EmbeddedOSFirmware.pkg",
+      "IntegrityDataSize": 284
+    },
+    {
+      "Digest": "b8caa86aa766b9448cc0989fbedb2bb83dec6c90",
+      "Size": 435435034,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6Supplemental.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6Supplemental.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6Supplemental.pkg",
+      "IntegrityDataSize": 1580
+    },
+    {
+      "Digest": "64a9780f6c8c1ecfd79b14f952d7184e479925b2",
+      "Size": 103494975,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/FullBundleUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/FullBundleUpdate.pkg",
+      "IntegrityDataSize": 428
+    },
+    {
+      "Digest": "58cb6e1e9b30f8b7bc6192a7045f050e1347dd22",
+      "Size": 481987400,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6Supplemental.RecoveryHDUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6Supplemental.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6Supplemental.RecoveryHDUpdate.pkg",
+      "IntegrityDataSize": 1724
+    },
+    {
+      "Digest": "e4b3fbae0bed451decdf17c19a00ed5c480251ed",
+      "Size": 172700875,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/FirmwareUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/FirmwareUpdate.pkg",
+      "IntegrityDataSize": 680
+    },
+    {
+      "Digest": "10c13c762c934ee7373d46fe9139b96c22a5227a",
+      "Size": 79155,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSBrain.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSBrain.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "e2a411d73e0c1b58036f54e1c52fb88c090e2274",
+      "Size": 79157,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/SecureBoot.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/SecureBoot.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "5d1dbb28780505188ca64815ad1e0d9113627c0a",
+      "Size": 218379797,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6SupplementalPatch.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6SupplementalPatch.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/44/37/061-41417-A_RZZS2750CM/vcl2vjagm6st7s8pw5aask71oafmv3fp4w/macOSUpd10.14.6SupplementalPatch.pkg",
+      "IntegrityDataSize": 824
+    }
+  ]
+}
