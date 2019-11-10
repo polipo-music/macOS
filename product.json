@@ -1,0 +1,12 @@
+{
+  "PostDate": "2019-10-22T20:47:36Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/33/03/041-90774-A_MO6LWFR9AU/adoslw1o3pm5pynr71fugwqi2f99cr8f07/041-90774.English.dist",
+  "Packages": [
+    {
+      "Digest": "170cb32f32237223faba5f87d9c6000fd03ceefd",
+      "Size": 1414606,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/33/03/041-90774-A_MO6LWFR9AU/adoslw1o3pm5pynr71fugwqi2f99cr8f07/macOSUpd10.13Supplemental.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/33/03/041-90774-A_MO6LWFR9AU/adoslw1o3pm5pynr71fugwqi2f99cr8f07/macOSUpd10.13Supplemental.pkg"
+    }
+  ]
+}
