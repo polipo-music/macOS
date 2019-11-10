@@ -1,0 +1,48 @@
+{
+  "PostDate": "2019-10-14T19:01:20Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/041-90781.English.dist",
+  "Packages": [
+    {
+      "Digest": "c0e81030df0ab3fc91593986a993c706027c3901",
+      "Size": 108741986,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/FullBundleUpdate.pkg"
+    },
+    {
+      "Digest": "97c8434dd187f64b7e452712e920a78ed2048236",
+      "Size": 1370310322,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/macOSUpdCombo10.13.2ForSeed.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/macOSUpdCombo10.13.2ForSeed.pkg"
+    },
+    {
+      "Digest": "f65af6c699ffa2165804356d5fc9da3b8eaa7748",
+      "Size": 480086369,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/macOSUpdCombo10.13.2ForSeed.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/macOSUpdCombo10.13.2ForSeed.RecoveryHDUpdate.pkg"
+    },
+    {
+      "Digest": "e09e97d547e1f82297678e3ffecce0314be62946",
+      "Size": 202630373,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "d3973336eec4078a81bdfd3651d90edac579847b",
+      "Size": 21832,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/BridgeOSUpdateCustomer.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/BridgeOSUpdateCustomer.pkg"
+    },
+    {
+      "Digest": "8651f821c6af8aa5235a0d50f36ca6e9a29fe9c6",
+      "Size": 59311447,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/EmbeddedOSFirmware.pkg"
+    },
+    {
+      "Digest": "44689435f439e18d046e89cfdf6fb1e623019a9c",
+      "Size": 21844,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/BridgeOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/14/17/041-90781-A_4R33W7IRC8/vouxjafdz07hztatepcvvpyfor3kfkj7g2/BridgeOSBrain.pkg"
+    }
+  ]
+}
