@@ -82,17 +82,20 @@ def get_filename(url):
 def parse_distribution(path):
     with open(path, 'rb') as f:
         data = f.read()
-    auxinfo = plistlib.loads(
-        re.search(br'(?s)<auxinfo>(.*)</auxinfo>', data)
-        .expand(br'<plist>\1</plist>')
-    )
     title = re.search(br'(?<="SU_TITLE" = ")[^"]+', data).group().decode()
-    if 'macOSProductBuildVersion' in auxinfo:
-        return f"{title} ({auxinfo['macOSProductBuildVersion']})"
+    m = re.search(br'(?s)<auxinfo>(.*)</auxinfo>', data)
+    if m:
+        auxinfo = plistlib.loads(m.expand(br'<plist>\1</plist>'))
+        if 'macOSProductBuildVersion' not in auxinfo:
+            if title.startswith('Install '):
+                title = title[8:]
+            title += ' ' + auxinfo['VERSION']
+            build = auxinfo['BUILD']
+        else:
+            build = auxinfo['macOSProductBuildVersion']
     else:
-        if title.startswith('Install '):
-            title = title[8:]
-        return f"{title} {auxinfo['VERSION']} ({auxinfo['BUILD']})"
+        build = re.search(br'(?<=\.)\d+[A-Z]\d+[a-z]?(?=")', data).group().decode()
+    return f'{title} ({build})'
 
 class LimitedReader:
     def __init__(self, f, length):
