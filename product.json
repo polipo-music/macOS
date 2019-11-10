@@ -1,0 +1,48 @@
+{
+  "PostDate": "2019-10-09T19:41:34Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/041-91750.English.dist",
+  "Packages": [
+    {
+      "Digest": "d54844578bd68d2be229dd46dcbf862ca2c6a79d",
+      "Size": 203199712,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "52f249118a51a3c6b7a4a6e300b34b4ab6828afc",
+      "Size": 42317,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/macOSBrain.pkg"
+    },
+    {
+      "Digest": "fcbd8a998c36f30c87afc6caec5fd0f11eb3dc57",
+      "Size": 486779734,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/macOSUpd10.13.6Supplemental.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/macOSUpd10.13.6Supplemental.RecoveryHDUpdate.pkg"
+    },
+    {
+      "Digest": "20340ca77eb6152a73bed238203a51839a725129",
+      "Size": 117740893,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/FullBundleUpdate.pkg"
+    },
+    {
+      "Digest": "b3285346b37d81b542451f4196899b64fe5cb52f",
+      "Size": 21840,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/SecureBoot.pkg"
+    },
+    {
+      "Digest": "3f7d4ecd9f9a63cbd61f19cf20217965b06db3b2",
+      "Size": 427902431,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/macOSUpd10.13.6Supplemental.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/macOSUpd10.13.6Supplemental.pkg"
+    },
+    {
+      "Digest": "b708dfd3bf7a3374299ff104e4e1d6dac7f174de",
+      "Size": 59311451,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/29/041-91750-A_C826SN678Z/rpwq2kiaest347iyen01hjyglzpyw8s9l1/EmbeddedOSFirmware.pkg"
+    }
+  ]
+}
