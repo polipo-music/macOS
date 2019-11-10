@@ -1,0 +1,42 @@
+{
+  "PostDate": "2019-10-14T19:09:28Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/041-90790.English.dist",
+  "Packages": [
+    {
+      "Digest": "56ba2c48b5783ea9a1a6b67fb5475fb400b68126",
+      "Size": 659764809,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/macOSUpd10.13.3.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/macOSUpd10.13.3.pkg"
+    },
+    {
+      "Digest": "689ca484c33c4a18ee7e4bb3c2a967e1964da3cb",
+      "Size": 485992797,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/macOSUpd10.13.3.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/macOSUpd10.13.3.RecoveryHDUpdate.pkg"
+    },
+    {
+      "Digest": "b6b7d35a37fee3e714734f6d70b6661fc88a91cd",
+      "Size": 42325,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/macOSBrain.pkg"
+    },
+    {
+      "Digest": "373a8cd50428da7c413a0e6b60a1a8af5dd2b3e0",
+      "Size": 201028833,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "2b5eb57585d169dc5c1bd8b62118a3b1dff6db64",
+      "Size": 59315549,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/EmbeddedOSFirmware.pkg"
+    },
+    {
+      "Digest": "3d5454fc7af5c9974cb914150272f189884bf5d7",
+      "Size": 108737887,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/24/33/041-90790-A_IPQZZ4GEDL/8udb90armk8cwhbur3dcan5cy7h4ix0k5h/FullBundleUpdate.pkg"
+    }
+  ]
+}
