@@ -1,0 +1,42 @@
+{
+  "PostDate": "2019-10-14T18:42:45Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/041-90441.English.dist",
+  "Packages": [
+    {
+      "Digest": "aa69d84aaa520962764c5eaa52ff3a57f4a8eafc",
+      "Size": 110327137,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/FullBundleUpdate.pkg"
+    },
+    {
+      "Digest": "c70711b2d7ff1703a5eea866001a22773fecf68c",
+      "Size": 492075358,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/macOSUpd10.13.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/macOSUpd10.13.RecoveryHDUpdate.pkg"
+    },
+    {
+      "Digest": "93900594b360b52f065efcf78627c67799140e8e",
+      "Size": 200488168,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "e444b9446b6ed4f3412ed19c652db5288b14b864",
+      "Size": 59311453,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/EmbeddedOSFirmware.pkg"
+    },
+    {
+      "Digest": "ce97ecdbee88a16deb73cb6e92a47894b7f53a22",
+      "Size": 2143086258,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/macOSUpd10.13.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/macOSUpd10.13.pkg"
+    },
+    {
+      "Digest": "fe2d4d812aaa1456f98f7e7af4c695f632c6fab5",
+      "Size": 1307756211,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/macOSUpd10.13Patch.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/62/20/041-90441-A_5A4LFBNU4H/qdqub88foeuuwyic1xrsb7xtxdeg2dbnfl/macOSUpd10.13Patch.pkg"
+    }
+  ]
+}
