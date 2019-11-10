@@ -57,7 +57,7 @@ def main():
     print('''\
 <!DOCTYPE html>
 <head>
-  <title>macOS Installer Archive</title>
+  <title>macOS Installer/Update Archive</title>
   <style>
 .collection + .collection {
   margin-top: 1em;

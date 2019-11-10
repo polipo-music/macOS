@@ -87,9 +87,12 @@ def parse_distribution(path):
         .expand(br'<plist>\1</plist>')
     )
     title = re.search(br'(?<="SU_TITLE" = ")[^"]+', data).group().decode()
-    if title.startswith('Install '):
-        title = title[8:]
-    return title, auxinfo['VERSION'], auxinfo['BUILD']
+    if 'macOSProductBuildVersion' in auxinfo:
+        return f"{title} ({auxinfo['macOSProductBuildVersion']})"
+    else:
+        if title.startswith('Install '):
+            title = title[8:]
+        return f"{title} {auxinfo['VERSION']} ({auxinfo['BUILD']})"
 
 class LimitedReader:
     def __init__(self, f, length):
@@ -225,9 +228,7 @@ def main():
     logging.info('Generating SHA256SUM...')
     subprocess.run('shasum --algorithm 256 --binary * >SHA256SUM', shell=True, check=True)
 
-    title, version, build = parse_distribution(distribution_filename)
-    beta = 'Beta' in title
-    distribution = f'{title} {version} ({build})'
+    distribution = parse_distribution(distribution_filename)
     logging.info(f'Distribution: {distribution}')
 
     logging.info('Creating GitHub release...')
@@ -239,7 +240,6 @@ def main():
             'name': distribution,
             'body': f'`{post_date}`',
             'draft': True,
-            'prerelease': beta,
         },
         allow_redirects=False,
     )
