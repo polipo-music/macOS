@@ -1,6 +1,7 @@
 on:
   push:
-  release:
+  schedule:
+  - cron: '20,50 * * * *'
 
 jobs:
   pages:
@@ -14,4 +15,3 @@ jobs:
     - run: exec .github/pages.sh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
