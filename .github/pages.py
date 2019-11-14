@@ -18,7 +18,7 @@ class Build(typing.NamedTuple):
         minor = ord(minor) - ord('A')
         seq   = int(seq)
         beta  = ord(beta) - ord('a') + 1 if beta else 27
-        return cls(major, minor, beta, seq)
+        return cls(major, minor, seq, beta)
 
 def get_releases(repo, token=None):
     releases = []
