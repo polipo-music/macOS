@@ -7,6 +7,8 @@ mkdir gh-pages
 cd gh-pages
 ../.github/pages.py >index.html
 
+[ -z "$(git status --porcelain)" ] && exit 0
+
 git config --global user.name 'GitHub Actions'
 git config --global user.email "$(whoami)@$(hostname --fqdn)"
 git init
