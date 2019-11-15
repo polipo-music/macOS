@@ -1,0 +1,72 @@
+{
+  "PostDate": "2019-11-15T18:01:13Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/061-44345.English.dist",
+  "Packages": [
+    {
+      "Digest": "65f7d6fe993ff37b7c7e4ab5a41d836b40139fc1",
+      "Size": 1904891,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/MajorOSInfo.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/MajorOSInfo.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/MajorOSInfo.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Size": 599917,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/OSInstall.mpkg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/OSInstall.mpkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Size": 328,
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/AppleDiagnostics.chunklist"
+    },
+    {
+      "Size": 2020,
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/BaseSystem.chunklist"
+    },
+    {
+      "Size": 3054561,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/AppleDiagnostics.dmg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/AppleDiagnostics.dmg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Size": 26464,
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/InstallESDDmg.chunklist"
+    },
+    {
+      "Digest": "9f83093c495e593e24b55bb7a433fe88d99d4480",
+      "Size": 10817867,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/InstallAssistantAuto.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/InstallAssistantAuto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/InstallAssistantAuto.pkg",
+      "IntegrityDataSize": 140
+    },
+    {
+      "Size": 1584,
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/InstallInfo.plist"
+    },
+    {
+      "Digest": "ddc7002fb6dbe63c99544e7673691114b047eb93",
+      "Size": 7620465425,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/InstallESDDmg.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/InstallESDDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/InstallESDDmg.pkg",
+      "IntegrityDataSize": 26240
+    },
+    {
+      "Digest": "be388164eed88004974ac9f27dae8d7a9b0c3e2c",
+      "Size": 500090138,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/RecoveryHDMetaDmg.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/RecoveryHDMetaDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/RecoveryHDMetaDmg.pkg",
+      "IntegrityDataSize": 1796
+    },
+    {
+      "Size": 498281545,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/BaseSystem.dmg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/30/26/061-44345-A_KESM6DQZ3B/44cdw7ri5cg3bi4ko4pox21ce655pu4f86/BaseSystem.dmg",
+      "IntegrityDataSize": 1796
+    }
+  ]
+}
