@@ -20,6 +20,5 @@ for branch in proc.stdout.decode().strip().split('\n'):
     if rsp.status_code != 404:
         print(f'[WARNING] {branch} {rsp.status_code} {rsp.reason}')
     to_delete.append('refs/heads/'+branch)
-    print(f'[INFO] purge {branch}')
 if to_delete:
     subprocess.run(['git', 'push', '--delete', 'origin'] + to_delete, check=True)
