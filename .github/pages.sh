@@ -2,16 +2,15 @@
 set -ex
 
 pip3 install -r .github/requirements.txt
+.github/pages.py >gh-pages/index.html
 
-mkdir gh-pages
 cd gh-pages
-../.github/pages.py >index.html
+if [ -n "$(git status --porcelain)" ]; then
+	git config --global user.name 'GitHub Actions'
+	git config --global user.email "$(whoami)@$(hostname --fqdn)"
+	git config http.https://github.com/.extraheader "Authorization: Basic $(echo -n "dummy:${GITHUB_PERSONAL_ACCESS_TOKEN}" | base64 --wrap=0)"
 
-[ -z "$(git status --porcelain)" ] && exit 0
-
-git config --global user.name 'GitHub Actions'
-git config --global user.email "$(whoami)@$(hostname --fqdn)"
-git init
-git add --all
-git commit --all --message 'automatic commit'
-git push --force "https://${GITHUB_PERSONAL_ACCESS_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:gh-pages
+	git add --all
+	git commit --amend --reset-author --message 'automatic commit'
+	git push --force
+fi
