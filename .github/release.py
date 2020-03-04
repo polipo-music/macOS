@@ -97,6 +97,29 @@ def parse_distribution(path):
         build = re.search(br'(?<=\.)\d+[A-Z]\d+[a-z]?(?=")', data).group().decode()
     return f'{title} ({build})'
 
+def get_assets(assets_url, token=None):
+    assets = []
+    headers = {'Authorization': f'token {token}'} if token else None
+    url = f'{assets_url}?per_page=100'
+    while 1:
+        rsp = requests.get(url=url, headers=headers, allow_redirects=False)
+        assert rsp.status_code == 200, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
+        assets.extend(rsp.json())
+        if 'next' not in rsp.links:
+            break
+        url = rsp.links['next']['url']
+    return assets
+
+def delete_asset(assets_url, name, token):
+    for asset in get_assets(assets_url, token=token):
+        if asset['name'] == name:
+            break
+    else:
+        raise ValueError(f'asset {name} not found')
+    headers = {'Authorization': f'token {token}'}
+    rsp = requests.delete(url=asset['url'], headers=headers, allow_redirects=False)
+    assert rsp.status_code == 204, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
+
 class LimitedReader:
     def __init__(self, f, length):
         self._file = f
@@ -283,12 +306,15 @@ def main():
                                 data=data,
                                 allow_redirects=False,
                             )
+                            if rsp.status_code == 422:
+                                logging.error(f'{rsp.status_code} {rsp.reason}\n{rsp.text}')
+                                # assume {"resource":"ReleaseAsset","code":"already_exists","field":"name"}
+                                delete_asset(release['assets_url'], name, token=GITHUB_TOKEN)
                             if rsp.status_code != 500:
                                 break
                         except requests.ConnectionError:
                             pass
-                        finally:
-                            logging.info('Upload failed, retry')
+                        logging.error('Upload failed, retry')
                     assert rsp.status_code == 201, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
 
         # find and remove previous release
