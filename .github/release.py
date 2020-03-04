@@ -259,19 +259,19 @@ def main():
             num_chunks = (size + chunk_limit-1) // chunk_limit
             with open(filename, 'rb') as f:
                 for chunk_idx in range(num_chunks):
-                    if num_chunks > 1:
-                        logging.info(f'Sending chunk #{chunk_idx+1}...')
-                        name = f'{filename}.{chunk_idx+1}'
-                        f.seek(chunk_idx * chunk_limit)
-                        if chunk_idx == num_chunks - 1:
-                            length = size % chunk_limit
-                        else:
-                            length = chunk_limit
-                        data = LimitedReader(f, length)
-                    else:
-                        name = filename
-                        data = f
                     while 1:
+                        if num_chunks > 1:
+                            logging.info(f'Sending chunk #{chunk_idx+1}...')
+                            name = f'{filename}.{chunk_idx+1}'
+                            f.seek(chunk_idx * chunk_limit)
+                            if chunk_idx == num_chunks - 1:
+                                length = size % chunk_limit
+                            else:
+                                length = chunk_limit
+                            data = LimitedReader(f, length)
+                        else:
+                            name = filename
+                            data = f
                         try:
                             rsp = requests.post(upload_url,
                                 params={'name': name},
