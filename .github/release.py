@@ -284,7 +284,7 @@ def main():
                             )
                             if rsp.status_code != 500:
                                 break
-                        except requests.exceptions.ConnectionError:
+                        except requests.ConnectionError:
                             pass
                         finally:
                             logging.info('Upload failed, retry')
