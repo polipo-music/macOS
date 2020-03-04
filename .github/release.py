@@ -272,18 +272,22 @@ def main():
                         name = filename
                         data = f
                     while 1:
-                        rsp = requests.post(upload_url,
-                            params={'name': name},
-                            headers={
-                                'Authorization': f'token {GITHUB_TOKEN}',
-                                'Content-Type': 'application/octet-stream',
-                            },
-                            data=data,
-                            allow_redirects=False,
-                        )
-                        if rsp.status_code != 500:
-                            break
-                        logging.info('Upload failed, retry')
+                        try:
+                            rsp = requests.post(upload_url,
+                                params={'name': name},
+                                headers={
+                                    'Authorization': f'token {GITHUB_TOKEN}',
+                                    'Content-Type': 'application/octet-stream',
+                                },
+                                data=data,
+                                allow_redirects=False,
+                            )
+                            if rsp.status_code != 500:
+                                break
+                        except requests.exceptions.ConnectionError:
+                            pass
+                        finally:
+                            logging.info('Upload failed, retry')
                     assert rsp.status_code == 201, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
 
         # find and remove previous release
