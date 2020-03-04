@@ -271,15 +271,19 @@ def main():
                     else:
                         name = filename
                         data = f
-                    rsp = requests.post(upload_url,
-                        params={'name': name},
-                        headers={
-                            'Authorization': f'token {GITHUB_TOKEN}',
-                            'Content-Type': 'application/octet-stream',
-                        },
-                        data=data,
-                        allow_redirects=False,
-                    )
+                    while 1:
+                        rsp = requests.post(upload_url,
+                            params={'name': name},
+                            headers={
+                                'Authorization': f'token {GITHUB_TOKEN}',
+                                'Content-Type': 'application/octet-stream',
+                            },
+                            data=data,
+                            allow_redirects=False,
+                        )
+                        if rsp.status_code != 500:
+                            break
+                        logging.info('Upload failed, retry')
                     assert rsp.status_code == 201, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
 
         # find and remove previous release
@@ -294,17 +298,17 @@ def main():
                 headers={'Authorization': f'token {GITHUB_TOKEN}'},
                 allow_redirects=False,
             )
-            assert rsp.status_code == 204
+            assert rsp.status_code == 204, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
             logging.info('Previous GitHub release removed')
         else:
-            assert rsp.status_code == 404
+            assert rsp.status_code == 404, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
     except BaseException:
         logging.exception('Release aborted')
         rsp = requests.delete(release['url'],
             headers={'Authorization': f'token {GITHUB_TOKEN}'},
             allow_redirects=False,
         )
-        assert rsp.status_code != 204
+        assert rsp.status_code != 204, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
         sys.exit(1)
     else:
         # publish draft
@@ -313,7 +317,7 @@ def main():
             json={'draft': False},
             allow_redirects=False,
         )
-        assert rsp.status_code == 200
+        assert rsp.status_code == 200, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
 
     logging.info('Done')
 
