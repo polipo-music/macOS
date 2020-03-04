@@ -271,6 +271,7 @@ def main():
                             data = LimitedReader(f, length)
                         else:
                             name = filename
+                            f.seek(0)
                             data = f
                         try:
                             rsp = requests.post(upload_url,
