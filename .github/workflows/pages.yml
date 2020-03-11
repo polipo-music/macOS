@@ -1,7 +1,9 @@
 on:
   push:
-  schedule:
-  - cron: '20,50 * * * *'
+  release:
+    types: [published]
+  schedule: # keep the daily cron in case release events race
+  - cron: '0 0 * * *'
 
 jobs:
   pages:
