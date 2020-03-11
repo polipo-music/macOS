@@ -306,16 +306,17 @@ def main():
                                 data=data,
                                 allow_redirects=False,
                             )
+                            if rsp.status_code == 201:
+                                break
+                            logging.error(f'{rsp.status_code} {rsp.reason}\n{rsp.text}')
                             if rsp.status_code == 422:
-                                logging.error(f'{rsp.status_code} {rsp.reason}\n{rsp.text}')
                                 # assume {"resource":"ReleaseAsset","code":"already_exists","field":"name"}
                                 delete_asset(release['assets_url'], name, token=GITHUB_TOKEN)
-                            if rsp.status_code != 500:
-                                break
+                            else:
+                                assert rsp.status_code == 500, 'unexpected HTTP status code'
                         except requests.ConnectionError:
                             pass
                         logging.error('Upload failed, retry')
-                    assert rsp.status_code == 201, f'{rsp.status_code} {rsp.reason}\n{rsp.text}'
 
         # find and remove previous release
         rsp = requests.get(f'https://api.github.com/repos/{GITHUB_REPOSITORY}/releases/tags/{GITHUB_BRANCH}',
