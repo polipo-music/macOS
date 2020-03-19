@@ -313,7 +313,7 @@ def main():
                                 # assume {"resource":"ReleaseAsset","code":"already_exists","field":"name"}
                                 delete_asset(release['assets_url'], name, token=GITHUB_TOKEN)
                             else:
-                                assert rsp.status_code == 500, 'unexpected HTTP status code'
+                                assert rsp.status_code in [500, 502, 504], 'unexpected HTTP status code'
                         except requests.ConnectionError:
                             pass
                         logging.error('Upload failed, retry')
