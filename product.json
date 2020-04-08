@@ -1,0 +1,72 @@
+{
+  "PostDate": "2020-04-08T21:12:35Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/061-96006.English.dist",
+  "Packages": [
+    {
+      "Digest": "f3e21a395a2b90c3213fd5e746d5a220b9ebae4b",
+      "Size": 10817857,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/InstallAssistantAuto.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/InstallAssistantAuto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/InstallAssistantAuto.pkg",
+      "IntegrityDataSize": 140
+    },
+    {
+      "Size": 497910233,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/BaseSystem.dmg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/BaseSystem.dmg",
+      "IntegrityDataSize": 1796
+    },
+    {
+      "Digest": "aefab73667ac0d529591d41b9a14462cdd6e38e7",
+      "Size": 1904880,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/MajorOSInfo.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/MajorOSInfo.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/MajorOSInfo.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "24159062165fa63a7483f2ed5dd81946b3152edb",
+      "Size": 7718912775,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/InstallESDDmg.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/InstallESDDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/InstallESDDmg.pkg",
+      "IntegrityDataSize": 26600
+    },
+    {
+      "Size": 26824,
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/InstallESDDmg.chunklist"
+    },
+    {
+      "Digest": "a0e5331a96be8483bc5058cad83167cf6df9fd4e",
+      "Size": 499754264,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/RecoveryHDMetaDmg.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/RecoveryHDMetaDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/RecoveryHDMetaDmg.pkg",
+      "IntegrityDataSize": 1796
+    },
+    {
+      "Size": 3055405,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/AppleDiagnostics.dmg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/AppleDiagnostics.dmg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Size": 799343,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/OSInstall.mpkg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/OSInstall.mpkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Size": 328,
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/AppleDiagnostics.chunklist"
+    },
+    {
+      "Size": 1584,
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/InstallInfo.plist"
+    },
+    {
+      "Size": 2020,
+      "URL": "http://swcdn.apple.com/content/downloads/35/40/061-96006-A_3D42K49AN3/r1513y9zscckrsmy018hbcryom8nq7gg1t/BaseSystem.chunklist"
+    }
+  ]
+}
