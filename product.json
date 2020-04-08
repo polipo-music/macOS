@@ -1,0 +1,62 @@
+{
+  "PostDate": "2020-04-08T21:12:36Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/061-96008.English.dist",
+  "Packages": [
+    {
+      "Digest": "f8f068c304749bf9c478d0f13dfcdedae547dee3",
+      "Size": 3831697999,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSUpdCombo10.15.4Auto.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSUpdCombo10.15.4Auto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSUpdCombo10.15.4Auto.pkg",
+      "IntegrityDataSize": 13244
+    },
+    {
+      "Digest": "f0a04fbfc9256dee45b41f87fae27eb875f4bb86",
+      "Size": 55775478,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/EmbeddedOSFirmware.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/EmbeddedOSFirmware.pkg",
+      "IntegrityDataSize": 284
+    },
+    {
+      "Digest": "a34299b654c2c553f41166d5f9396fc939dadc8b",
+      "Size": 178524286,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/FirmwareUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/FirmwareUpdate.pkg",
+      "IntegrityDataSize": 716
+    },
+    {
+      "Digest": "2300e18909cec6202cb936969c23543666b91258",
+      "Size": 117510395,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/FullBundleUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/FullBundleUpdate.pkg",
+      "IntegrityDataSize": 500
+    },
+    {
+      "Digest": "ca70b57ecacc703c6cbaef306f137ab68b388894",
+      "Size": 69879,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/SecureBoot.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/SecureBoot.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "7875cc7b45503a554da245aef6a8f10f15719d9a",
+      "Size": 499754264,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSUpdCombo10.15.4Auto.RecoveryHDUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSUpdCombo10.15.4Auto.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSUpdCombo10.15.4Auto.RecoveryHDUpdate.pkg",
+      "IntegrityDataSize": 1796
+    },
+    {
+      "Digest": "58cfe6b5172ee9ebd70a7c62b1b9435df67f7059",
+      "Size": 69866,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSBrain.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/47/24/061-96008-A_8L3E8B45SB/bu3cio6crbwk7h4vum1o5a71rlhubkmbrn/macOSBrain.pkg",
+      "IntegrityDataSize": 104
+    }
+  ]
+}
