@@ -1,0 +1,72 @@
+{
+  "PostDate": "2020-05-04T15:32:04Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/001-04366.English.dist",
+  "Packages": [
+    {
+      "Size": 498000281,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/BaseSystem.dmg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/BaseSystem.dmg",
+      "IntegrityDataSize": 1796
+    },
+    {
+      "Size": 3113222,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/AppleDiagnostics.dmg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/AppleDiagnostics.dmg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Size": 328,
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/AppleDiagnostics.chunklist"
+    },
+    {
+      "Digest": "caaea80daa0516968d72161dcbfcc7f6c6090df4",
+      "Size": 10817867,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallAssistantAuto.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallAssistantAuto.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallAssistantAuto.pkg",
+      "IntegrityDataSize": 140
+    },
+    {
+      "Size": 2020,
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/BaseSystem.chunklist"
+    },
+    {
+      "Size": 26896,
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallESDDmg.chunklist"
+    },
+    {
+      "Digest": "bca67516daf80f4f8a14baf9543ee3a38e2c56ab",
+      "Size": 1904887,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/MajorOSInfo.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/MajorOSInfo.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/MajorOSInfo.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "b052b1c2c1502ed99aa13732068751d6466a4936",
+      "Size": 7739883774,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallESDDmg.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallESDDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallESDDmg.pkg",
+      "IntegrityDataSize": 26672
+    },
+    {
+      "Size": 799404,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/OSInstall.mpkg.integrityDataV1",
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/OSInstall.mpkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "6bb1e8b32a071dc6cb7e4bcfbe2a7315553dd05c",
+      "Size": 500016415,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/RecoveryHDMetaDmg.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/RecoveryHDMetaDmg.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/RecoveryHDMetaDmg.pkg",
+      "IntegrityDataSize": 1796
+    },
+    {
+      "Size": 1584,
+      "URL": "http://swcdn.apple.com/content/downloads/37/41/001-04366/a6boefh8b6bee4k2x6v5lwyfjr7od2ica3/InstallInfo.plist"
+    }
+  ]
+}
