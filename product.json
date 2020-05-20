@@ -1,0 +1,62 @@
+{
+  "PostDate": "2020-05-20T20:02:36Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/001-07786.English.dist",
+  "Packages": [
+    {
+      "Digest": "a930ffacd439b60ba268645975bba1407834d60a",
+      "Size": 69882,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/SecureBoot.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/SecureBoot.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "28e30c3d8b35c90339781441da8878dcdeeea9ba",
+      "Size": 178786430,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/FirmwareUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/FirmwareUpdate.pkg",
+      "IntegrityDataSize": 716
+    },
+    {
+      "Digest": "7192edf52c79a1b35934207cdfa8b177ec4be34a",
+      "Size": 69877,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSBrain.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSBrain.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "bedc69a4d4a284381327c49894a4114f94c98a30",
+      "Size": 118624516,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/FullBundleUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/FullBundleUpdate.pkg",
+      "IntegrityDataSize": 500
+    },
+    {
+      "Digest": "8e5a9157512922f5683f650b5d27c7e49faf00d5",
+      "Size": 500299032,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSUpd10.15.5.RecoveryHDUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSUpd10.15.5.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSUpd10.15.5.RecoveryHDUpdate.pkg",
+      "IntegrityDataSize": 1796
+    },
+    {
+      "Digest": "732a188c5018903f6cf314c8cfe7ac2f91cf7f8b",
+      "Size": 2117472842,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSUpd10.15.5.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSUpd10.15.5.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/macOSUpd10.15.5.pkg",
+      "IntegrityDataSize": 7340
+    },
+    {
+      "Digest": "1f9c989ce33c54aac3d70882a7d5c7955d346f37",
+      "Size": 55775485,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/EmbeddedOSFirmware.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/20/33/001-07786-A_404IAOVPV6/6fqwco21pavwf9jf878joetp75uecmctrp/EmbeddedOSFirmware.pkg",
+      "IntegrityDataSize": 284
+    }
+  ]
+}
