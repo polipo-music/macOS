@@ -1,0 +1,62 @@
+{
+  "PostDate": "2020-05-20T20:03:41Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/001-07764.English.dist",
+  "Packages": [
+    {
+      "Digest": "21b81db85b2f9b8adfb3ecf1a56f12c449003532",
+      "Size": 848892352,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecUpd2020-003MojavePublicBeta.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecUpd2020-003MojavePublicBeta.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecUpd2020-003MojavePublicBeta.pkg",
+      "IntegrityDataSize": 2984
+    },
+    {
+      "Digest": "b9f645b7940ff435ea05c82eb6d54f779dccd032",
+      "Size": 103485658,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/FullBundleUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/FullBundleUpdate.pkg",
+      "IntegrityDataSize": 428
+    },
+    {
+      "Digest": "a74f9fe6281434602e2f11a44194b3c6458aba62",
+      "Size": 482120941,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecUpd2020-003MojavePublicBeta.RecoveryHDUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecUpd2020-003MojavePublicBeta.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecUpd2020-003MojavePublicBeta.RecoveryHDUpdate.pkg",
+      "IntegrityDataSize": 1724
+    },
+    {
+      "Digest": "c266bf4a175c924e966c4b6d8d38f733850b8927",
+      "Size": 69839,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/macOSBrain.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/macOSBrain.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "033a88cbd38f39f7eb22f8f6d142e164ed66802a",
+      "Size": 69846,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecureBoot.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/SecureBoot.pkg",
+      "IntegrityDataSize": 104
+    },
+    {
+      "Digest": "b1481da1ec5865dcf7692562122b9b6487a34e4e",
+      "Size": 59379928,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/EmbeddedOSFirmware.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/EmbeddedOSFirmware.pkg",
+      "IntegrityDataSize": 284
+    },
+    {
+      "Digest": "0d9fae9bb07ea7f1be9094474bb2e06f25b3fa30",
+      "Size": 172888170,
+      "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/FirmwareUpdate.pkg.integrityDataV1",
+      "MetadataURL": "https://swdist.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/56/61/001-07764-A_2OD96R3ORR/q3pgwztdp717hrjufqpn0qyc9pivuiq4oq/FirmwareUpdate.pkg",
+      "IntegrityDataSize": 680
+    }
+  ]
+}
