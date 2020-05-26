@@ -1,0 +1,48 @@
+{
+  "PostDate": "2020-05-26T20:17:47Z",
+  "DistributionURL": "https://swdist.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/001-07007.English.dist",
+  "Packages": [
+    {
+      "Digest": "ecd352af7fde06107aa3b1450a53fea92d1522dc",
+      "Size": 1231053390,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/SecUpd2020-003HighSierra.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/SecUpd2020-003HighSierra.pkg"
+    },
+    {
+      "Digest": "d3eb1d065dd2e79dc175f3e7478bccc632ac7705",
+      "Size": 486155521,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/SecUpd2020-003HighSierra.RecoveryHDUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/SecUpd2020-003HighSierra.RecoveryHDUpdate.pkg"
+    },
+    {
+      "Digest": "3d7a730133483ced9f2464a3d190ac7a96910db8",
+      "Size": 32996,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/macOSBrain.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/macOSBrain.pkg"
+    },
+    {
+      "Digest": "eadfaab8000cda98c9154687a476029a8fdced1b",
+      "Size": 16623,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/SecureBoot.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/SecureBoot.pkg"
+    },
+    {
+      "Digest": "b2f62955bdd23c66ce17d14a9f9b7f07af5b1f09",
+      "Size": 115577090,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/FullBundleUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/FullBundleUpdate.pkg"
+    },
+    {
+      "Digest": "ee3810e111d47c1c3815892450d780415965275b",
+      "Size": 202973306,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/FirmwareUpdate.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/FirmwareUpdate.pkg"
+    },
+    {
+      "Digest": "843482d362f98de42d6f783e22091667e4d79883",
+      "Size": 59298040,
+      "MetadataURL": "https://swdist.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/EmbeddedOSFirmware.pkm",
+      "URL": "http://swcdn.apple.com/content/downloads/53/14/001-07007-A_YNXVR24YA9/jlx8jbbf558l29g26z8iwyvt1ldvx6wg5p/EmbeddedOSFirmware.pkg"
+    }
+  ]
+}
